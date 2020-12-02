@@ -13,7 +13,7 @@ const SHOP_DATA = [
           "Named after John Coltrane’s Giant Steps, this dense and substantial coffee is not unlike the jazz visionary's signature \"sheets of sound.” Our darkest blend, comprising organic coffees from Uganda, Papua New Guinea, and Sumatra, is downright viscous in the cup. Just like Coltrane’s ability to cascade into high-pitched octaves with maximum control, this coffee’s inflections of stone fruit lighten without losing focus. Improvisations of milk or cream—in any proportion—shine.",
         categoryId: 1,
         category: "coffee ",
-        price: "10",
+        price: "$10",
         size: "12oz",
         type: "blend",
         flavorProfile: "Cocoa, toasted marshmallow, graham cracker",
@@ -27,7 +27,7 @@ const SHOP_DATA = [
         size: "12oz.",
         productName: "Honduras Catracha Doris Alicia Benitez",
         categoryId: 1,
-        price: "24",
+        price: "$24",
         description:
           "This bright, caramelly coffee is grown high in the mountains of Honduras where the clouds are so thick they can obscure the sunrise. It’s our choice to highlight this year by a single grower from the exceptional Catratcha Community Company. The nonprofit and coffee collective has single-handedly put the Honduran community of Santa Elena on the coffee map, while improving the lives of its farmers. This small lot comes from grower Doris Benitez’s personal plot, which she tends to in addition to the farm she and her husband Mateo share. It’s our third year offering her coffee as its own lot because it’s that exceptional.",
         imageUrl:
@@ -38,7 +38,7 @@ const SHOP_DATA = [
         productName: "Uganda Kapkwai Sipi Falls Natural",
         "category ": "coffee ",
         size: "12oz.",
-        price: 22,
+        price: "$22",
         imageUrl:
           "https://images.unsplash.com/photo-1550681560-af9bc1cb339e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
         description:
@@ -54,7 +54,7 @@ const SHOP_DATA = [
         categoryId: 1,
         description:
           "This brightly floral washed Ethiopia grows in old-growth highland rainforests near Gera in the western part of the country. There, small lot farmers usually bring their cherries to cooperatives. Michael Omran is doing something different. He started Abana Estate to produce excellent coffee and support community work. Since its founding about a decade ago, it has succeeded spectacularly. He and his team promote biodiversity on the farm and process cherries in an on-site water-recycling wet mill, all while funding medical care and infrastructure projects for local villagers. Look for a naturally processed coffee from Abana Estate with our holiday releases.",
-        price: 23,
+        price: "$23",
         imageUrl:
           "https://images.unsplash.com/photo-1559525839-b184a4d698c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2500&q=80",
         flavorProfile: "Yuzu, Peach, Jasmine",
@@ -71,7 +71,7 @@ const SHOP_DATA = [
         categoryId: 1,
         productName: "Beta Blend",
         flavorProfile: "Candied orange, milk chocolate, white peach",
-        price: 17,
+        price: "$17",
         imageUrl:
           "https://images.unsplash.com/photo-1442550528053-c431ecb55509?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
       },
@@ -82,7 +82,7 @@ const SHOP_DATA = [
         flavorProfile: "Strawberry, lemonzest, jasmine",
         imageUrl:
           "https://images.unsplash.com/photo-1553698249-0e3f9263ffa4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
-        price: 24,
+        price: "$24",
         category: "coffee",
         description:
           "Natural processing is the oldest way to turn coffee cherry into a coffee bean. Originating in Ethiopia centuries ago, the technique involves drying the fruit past the point of a raisin to extract the two seeds inside. Today, Abana Estate has one of the most exacting approaches to the method going. They mound rainforest-grown heirloom Arabica cherry into piles, rotating them every few hours for even drying beneath the sun. In the cup, the polychromatic result frees you from any fixed idea of what coffee should be—and reveals what coffee has been all along.",
@@ -98,7 +98,7 @@ const SHOP_DATA = [
           "We developed our darkest espresso for the launch of our first brick-and-mortar in our friend Loring’s garage in Hayes Valley. Years later, it remains the standard espresso in all of our cafes. Lower-toned and minimally bright, Hayes Valley Espresso pulls a straight shot with a voluptuous tawny crema and a somewhat dangerous-looking viscosity. Milk, in any quantity, adds romance to the coffee’s brooding aspects, bringing out the inherent chocolate and adding a smooth, rounded touch.",
         size: "12oz.",
         category: "coffee",
-        price: 17,
+        price: "$17",
         productName: "Hayes Valley Espresso",
         categoryId: 1,
         flavorProfile: "Baking chocolate, orange zest, brown sugar",
@@ -108,7 +108,7 @@ const SHOP_DATA = [
         productName: "Bella Donovan",
         flavorProfile: "Raspberry, chocolate, molasses",
         size: "12oz.",
-        price: 17,
+        price: "$17",
         type: "blend",
         categoryId: 1,
         imageUrl:
@@ -121,7 +121,7 @@ const SHOP_DATA = [
         productId: "Z0OPpcjLZNkHI3NUOYo8",
         descripton:
           "Natural processing is the oldest way to turn coffee cherry into a coffee bean. Originating in Ethiopia centuries ago, the technique involves drying the fruit past the point of a raisin to extract the two seeds inside. Today, Abana Estate has one of the most exacting approaches to the method going. They mound rainforest-grown heirloom Arabica cherry into piles, rotating them every few hours for even drying beneath the sun. In the cup, the polychromatic result frees you from any fixed idea of what coffee should be—and reveals what coffee has been all along.",
-        price: 24,
+        price: "$24",
         flavorProfile: "Molasses, Orange Zest, Black Cherry",
         category: "coffee",
         productName: "Ethiopia Gera Abana Estate Natural",
@@ -134,7 +134,7 @@ const SHOP_DATA = [
       {
         productId: "s4zjF21MUrIt1akPB9CZ",
         category: "coffee",
-        price: 17,
+        price: "$17",
         productName: "17ft Ceiling Espresso",
         flavorProfile: "Caramel, almond, dried cherry",
         imageUrl:
@@ -151,7 +151,7 @@ const SHOP_DATA = [
         imageUrl:
           "https://images.unsplash.com/photo-1559525839-b184a4d698c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80",
         size: "12oz",
-        price: 17,
+        price: "$17",
         flavorProfile: "Golden raisin, winey blueberry, lemon zest",
         "size ": "12oz.",
         description:
@@ -174,7 +174,7 @@ const SHOP_DATA = [
         description:
           "Tailored for Blue Bottle by the UK company Ecoffee Cup, our new EcoCup is designed to deliver a sleek, reusable takeaway option that is a pleasure to use. Built from bamboo fiber and other plant-based materials, the environmentally friendly cup is dishwasher safe, and looks as good as it feels in the hand.",
         size: "12oz.",
-        price: 16,
+        price: "$16",
         flavorProfile: "Our stylish reusable EcoCup",
         categoryId: 2,
         productName: "Hot Brew x Ecoffee Cup",
@@ -187,7 +187,7 @@ const SHOP_DATA = [
         type: "cups and mugs",
         description:
           "MiiR is to engineering what Blue Bottle is to coffee: We both believe beauty is integral to design. Featuring nontoxic materials and a lid designed to prevent splashing, this handsome Mug’s innovative thermal insulation maintains a steady internal temperature, so hot drinks stay hot, and NOLAs stay refreshing, for hours on end.  Like Blue Bottle, MiiR is committed to giving back. A portion of the proceeds from the sales of our MiiR Travel Mugs fund projects that support coffee-growing communities around the world.",
-        price: 27,
+        price: "$27",
         flavorProfile:
           "Keep your hot drinks hot and your cold drinks refreshing",
         productName: "MiiR Travel Mug",
@@ -202,7 +202,7 @@ const SHOP_DATA = [
         type: "cups and mugs",
         description:
           "From Japan, the Hario cold brew bottle joins form and function to make luscious cold brew effort-free. All you need is ground coffee, clean water, and 8 to 12 hours in the refrigerator. The ultrafine filter means the cold brew pours out crystal clear. Bonus: the filter is easily removable. Take it out and the glass and silicone bottle transforms into a stunning carafe for any beverage.",
-        price: "35",
+        price: "$35",
         flavorProfile: "Add coffee, water, and time",
         categoryId: 2,
         size: "750ml",
@@ -220,7 +220,7 @@ const SHOP_DATA = [
         productName: "Hot Brew x Hasami Coffee Service",
         type: "cups and mugs",
         category: "brewing",
-        price: 150,
+        price: "$150",
         categoryId: 2,
         imageUrl:
           "https://blue-bottle-cms.global.ssl.fastly.net/hbhhv9rz9/image/upload/c_thumb,h_576,w_576/v1573155504/ooofx1tvzjczvxrjrlmd.jpg",
@@ -229,7 +229,7 @@ const SHOP_DATA = [
         productId: "gNLWkZpxWbGvY68kHbyR",
         categoryId: 2,
         size: "12oz.",
-        price: 25,
+        price: "$25",
         imageUrl:
           "https://blue-bottle-cms.global.ssl.fastly.net/hbhhv9rz9/image/upload/c_thumb,h_576,w_576/v1486399968/gb5fkqjkqw81eyuf3iav.jpg",
         productName: "Hot Brew Mug",
@@ -241,7 +241,7 @@ const SHOP_DATA = [
       },
       {
         productId: "rZSguEgZG2NCHSSVLm9K",
-        price: 24.95,
+        price: "$25",
         categoryId: 2,
         type: "cups and mugs",
         imageUrl:
@@ -272,7 +272,7 @@ const SHOP_DATA = [
         category: "accessories",
         productName: "Hario Skerton+ Ceramic Coffee Mill",
         categoryId: 3,
-        price: "50",
+        price: "$50",
         imageUrl:
           "https://blue-bottle-cms.global.ssl.fastly.net/hbhhv9rz9/image/upload/c_thumb,h_576,w_576/v1573588588/ij2f9gnn82dberlxtkjp.jpg",
       },
@@ -289,7 +289,7 @@ const SHOP_DATA = [
           "https://blue-bottle-cms.global.ssl.fastly.net/hbhhv9rz9/image/upload/c_thumb,h_576,w_576/v1581967222/flnhhaqbrijkhmfdsyng.jpg",
         description:
           'Manufactured by our friends over at Hario Japan, this scale is durable, hyper-compact and quite sensitive. It measures in tenths of a gram, includes a built-in timer, and has a maximum capacity of 2 kilos (4.4 pounds). It comes in one color, matte black, which for our money is the best possible color a scale can come in. It takes two AAA batteries, which are included; and its modest dimensions – 7.5" by 4.75" by 1.2" – make it a pleasingly practical option for travel.',
-        price: 60,
+        price: "$60",
       },
       {
         productId: "ekfCCeVTwjtS3WCLt6aY",
@@ -303,13 +303,13 @@ const SHOP_DATA = [
         imageUrl:
           "https://blue-bottle-cms.global.ssl.fastly.net/hbhhv9rz9/image/upload/c_thumb,h_576,w_576/v1533235207/coco8ozcqkkfzse9lpws.jpg",
         categoryId: 3,
-        price: 79,
+        price: "$79",
         productName: "Fellow Stagg Stovetop Pour-Over Kettle",
       },
 
       {
         productId: "i8EPZIWJhhP0pKW9ugpJ",
-        price: 12.75,
+        price: "$12",
         imageUrl:
           "https://blue-bottle-cms.global.ssl.fastly.net/hbhhv9rz9/image/upload/c_thumb,h_576,w_576/v1581966494/iupdczthffwo7tgkh1pa.jpg",
         flavorProfile: "The same pitchers we use in our cafés",
@@ -329,7 +329,7 @@ const SHOP_DATA = [
         categoryId: 3,
         flavorProfile:
           "Same as it was in 1941, equal parts brilliance and utility",
-        price: "43.50",
+        price: "$44",
         productName: "Chemex 6-Cup",
         type: "accessories",
         description:
@@ -345,7 +345,7 @@ const SHOP_DATA = [
     items: [
       {
         productId: "a8y8sv7DUiuFQczbP9ML",
-        price: "35",
+        price: "$35",
         size: "6oz",
         flavorProfile: "A heartfelt pairing: chocolate and coffee",
         productName: "Blue Bottle x Dandelion Chocolate",

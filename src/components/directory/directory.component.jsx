@@ -24,11 +24,11 @@ class DirectoryMenu extends React.Component {
           linkUrl: "shop/brewing",
         },
         {
-          title: "giftcards",
+          title: "accessories",
           imageUrl:
             "https://images.unsplash.com/photo-1572798793834-67d5e285760d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=2767&q=80",
           id: 3,
-          linkUrl: "shop/giftcards",
+          linkUrl: "shop/accessories",
         },
       ],
     };
